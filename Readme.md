@@ -2,9 +2,6 @@
 
 A rental listings web app built with React and TypeScript. Users can browse apartment offers in six cities, see them on an interactive map, read and post reviews, and save favorites.
 
-<!-- Add a screenshot: put an image in the repo (e.g. docs/screenshot.png) and uncomment the line below -->
-<!-- ![Six Cities screenshot](docs/screenshot.png) -->
-
 ## Features
 
 - Offer list filtered by city, with sorting by price and rating
